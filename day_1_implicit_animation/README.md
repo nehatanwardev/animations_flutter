@@ -27,7 +27,11 @@ Perfect for learning how to create smooth and beautiful transitions in Flutter a
   | ![expanded] <img width="565" alt="image" src="https://github.com/user-attachments/assets/11066166-06b7-4d6c-9e03-fd3accd2d837" />
 g |
 
+
+
 > *Tap on the card to toggle animations!*
+
+![implicit_animation_demo](https://github.com/user-attachments/assets/920f8d82-94c6-4601-b4e0-15a1f66f11c3)
 
 ---
 
