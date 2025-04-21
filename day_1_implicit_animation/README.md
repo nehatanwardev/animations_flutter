@@ -36,3 +36,13 @@ g |
 1. Clone the repo:
    ```bash
    git clone https://github.com/nehatanwardev/animations_flutter.git
+
+
+## 🛠️ Tech Stack
+Flutter (Stable Channel)
+
+Dart
+
+Flutter Implicit Animation Widgets
+
+
