@@ -23,7 +23,9 @@ Perfect for learning how to create smooth and beautiful transitions in Flutter a
 
 | Default State | Expanded State |
 |---------------|----------------|
-| ![default]image.png  | ![expanded] image.png |
+| ![default] <img width="565" alt="image" src="https://github.com/user-attachments/assets/4b68254c-630e-4267-afa9-4f636e7e3303" />
+  | ![expanded] <img width="565" alt="image" src="https://github.com/user-attachments/assets/11066166-06b7-4d6c-9e03-fd3accd2d837" />
+g |
 
 > *Tap on the card to toggle animations!*
 
@@ -33,5 +35,4 @@ Perfect for learning how to create smooth and beautiful transitions in Flutter a
 
 1. Clone the repo:
    ```bash
-   git clone https://github.com/your-username/implicit-animation-playground.git
-   cd implicit-animation-playground
+   git clone https://github.com/nehatanwardev/animations_flutter.git
