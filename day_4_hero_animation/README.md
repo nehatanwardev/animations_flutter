@@ -12,6 +12,7 @@ This Flutter application demonstrates a **Hero Animation** with advanced visual 
 - **Opacity Transition**: The opacity of the icon fades in for a smoother visual experience.
 
 ## Screenshots
+![transition](https://github.com/user-attachments/assets/d5b832b9-95ab-40c9-b631-d92b91645aec)
 
 
 ## How It Works
