@@ -8,7 +8,8 @@ This is a simple Flutter project demonstrating **Transition Animations** like:
 - RotationTransition
 
 ## 📷 Demo
-(Insert GIF or screenshot here)
+![transition](https://github.com/user-attachments/assets/5fef3201-8f70-4d3f-8a38-25cb323234f6)
+
 
 ## 🚀 Features
 - Card slides up from bottom.
